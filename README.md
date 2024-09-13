@@ -1,11 +1,11 @@
-# Dashboard_Netflix
+# Power BI Project: Advanced Features Implementation
 ## Link to Dashboard :
 (https://app.powerbi.com/view?r=eyJrIjoiY2ExZjllMzctMGM3Yy00YmE0LWFkNjYtMDFkMGY4MTlhYjA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ![PdfImage](https://github.com/user-attachments/assets/5a57a538-07c9-4558-927d-64c197acb0ad)
 
-# Power BI Project: Advanced Features Implementation
+
 ## Project Overview
 This Power BI project showcases the implementation of several advanced features including new reference labels, new slicers, Azure Geomapping, and embedding images in tables. These features enhance the interactivity, user experience, and data visualization capabilities of the report.
 
